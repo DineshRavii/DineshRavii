@@ -37,7 +37,7 @@ Here’s a sample of my ongoing and completed DevOps projects:
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dinesh-ravii/)
-- 📧 Email: dineshravi.devops@gmail.com *(example)*
+- 📧 Email: dineshravii96@gmail.com
 - 📝 Blog: [https://medium.com/@dineshravii96](https://medium.com/@dineshravii96)
 
 ---
