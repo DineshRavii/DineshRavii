@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Dinesh Ravi
 
-🎯 **DevOps Engineer | CKA | PCA | 7+ Years of Experience**
+![Profile Views](https://komarev.com/ghpvc/?username=dineshravii96&label=Profile%20views&color=0e75b6&style=flat)
+
+🎯 **DevOps Engineer | Certified Kubernetes Associate & Prometheus Certified Associate from The Linux Foundation | 7+ Years of Experience**
 
 Welcome to my GitHub! I’m passionate about automating infrastructure, building secure CI/CD pipelines, and delivering reliable cloud-native solutions. I currently work at **EPAM Systems** and have a strong background in Kubernetes, Terraform, Prometheus, Jenkins, Grafana and Ansible.
 
@@ -17,6 +19,8 @@ Welcome to my GitHub! I’m passionate about automating infrastructure, building
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Zsh](https://img.shields.io/badge/-Zsh-1C1C1C?style=flat&logo=gnu-bash&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-1DBF73?style=flat&logo=servicenow&logoColor=white)
 
 ---
 
