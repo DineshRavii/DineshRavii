@@ -32,7 +32,7 @@ Here’s a sample of my ongoing and completed DevOps projects:
 - 🧩 [terraform-aws-eks](https://github.com/your-username/terraform-aws-eks) – Terraform IaC for EKS cluster setup with node groups.
 - 🛠 [ansible-infra](https://github.com/your-username/ansible-infra) – Ansible playbooks to deploy a 3-tier web application stack.
 - 📈 [k8s-monitoring-stack](https://github.com/your-username/k8s-monitoring-stack) – Prometheus, Grafana, Alertmanager setup on Kubernetes.
-- 🤖 [incident-automation](https://github.com/your-username/incident-automation) – Prometheus → Splunk → ServiceNow alert integration.
+- 🤖 [incident-automation](https://medium.com/@dineshravii96/bridging-prometheus-and-servicenow-with-splunk-for-automated-itsm-2a1f1f8d6b0a) – Prometheus → Splunk → ServiceNow alert integration.
 
 > 💡 *Check the pinned section below for more repositories!*
 
